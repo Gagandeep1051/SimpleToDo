@@ -2,7 +2,7 @@
 
 **Simple Todo App** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Gagandee Singh**
+Submitted by: **Gagandeep Singh**
 
 Time spent: **6** hours spent in total
 
